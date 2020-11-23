@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1579772758 source:c:\sfsd\serie1\tp2_khamoum_belgherbi_2020\tpe13\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonction.h"
+
+1579773583 c:\sfsd\serie1\tp2_khamoum_belgherbi_2020\tpe13\fonction.h
+	<stdio.h>
+	<stdlib.h>
+
+1578339410 source:c:\sfsd\serie1\tp2_khamoum_belgherbi_2020\tpe13\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fonction.h"
+
